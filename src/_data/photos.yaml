@@ -40,6 +40,11 @@
   borough: Staten Island
   description: 
   tags: [s, ferry, boat]
+- src: '/images/heather-shevlin-ObuGKWVUkcY-unsplash.jpg'
+  credit: Photo by <a href="https://unsplash.com/@thehmstravels?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Heather Shevlin</a> on <a href="https://unsplash.com/collections/tR4XvqyPsv4/nyc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  borough: Manhattan
+  title: west village
+  alt: building in west village
 
 
 
